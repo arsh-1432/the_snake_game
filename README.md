@@ -35,3 +35,6 @@ To ensure smooth performance across different systems, we've optimized the game 
 Conclusion
 
 This Python implementation of the Snake game successfully captures the essence of the classic arcade experience while introducing modern elements that appeal to contemporary gamers. By combining nostalgic gameplay with innovative features and user-centric design, we've created a version of Snake that honors its roots while offering a fresh and engaging experience for players of all ages.
+
+![Screenshot (383)](https://github.com/user-attachments/assets/d75a4a10-606d-4f4e-bedd-b0f1745d2a7b)
+
