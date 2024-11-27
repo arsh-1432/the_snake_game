@@ -38,3 +38,4 @@ This Python implementation of the Snake game successfully captures the essence o
 
 ![Screenshot (383)](https://github.com/user-attachments/assets/d75a4a10-606d-4f4e-bedd-b0f1745d2a7b)
 
+
